@@ -1,8 +1,13 @@
 # Instagram Analyzer PRO v2.0
 
-Analizzatore locale delle esportazioni Instagram per analizzare follower, following e relazioni reciproche.
+Analizzatore locale delle esportazioni Instagram per confrontare follower, following e relazioni reciproche.
 
-## Funzionalità
+🌐 **Demo online:**  
+https://danielebellino1998.github.io/instagram_analyzer/
+
+---
+
+## ✨ Funzionalità
 
 ✅ Analisi follower/following  
 ✅ Supporto file multipli Instagram (`followers_1.json`, `following_1.json`, ecc.)  
@@ -10,25 +15,31 @@ Analizzatore locale delle esportazioni Instagram per analizzare follower, follow
 ✅ Individuazione follower che non segui  
 ✅ Ricerca utenti  
 ✅ Visualizzazione data di follow quando disponibile  
-✅ Cache locale della sessione  
-✅ Ripristino automatico dell'ultima analisi  
+✅ Cache locale dell'ultima analisi  
+✅ Ripristino automatico della sessione  
 ✅ Ripristino posizione di navigazione  
-✅ Funzionamento come PWA (Progressive Web App)
+✅ Pulizia completa dei dati salvati  
+✅ PWA Ready
 
-## Utilizzo
+---
+
+## 🚀 Utilizzo
 
 1. Scaricare il proprio archivio dati da Instagram
-2. Estrarre il file ZIP
-3. Caricare l'archivio ZIP nell'app
-4. Avviare l'analisi
+2. Caricare il file ZIP nell'app
+3. Avviare l'analisi
 
-## Privacy
+---
+
+## 🔒 Privacy
 
 L'elaborazione dei dati avviene interamente nel browser.
 
 Nessun dato Instagram viene inviato a server esterni.
 
-## Tecnologie
+---
+
+## 🛠️ Tecnologie
 
 - HTML5
 - CSS3
@@ -36,7 +47,22 @@ Nessun dato Instagram viene inviato a server esterni.
 - JSZip
 - Web Storage API
 - PWA Manifest
+- GitHub Pages
 
-## Versione
+---
 
-v2.0 - Stable Release
+## 📌 Versione
+
+**v2.0 - Stable Release**
+
+Principali aggiornamenti:
+- Cache persistente
+- Ripristino sessione
+- Supporto esportazioni Instagram con più file
+- Migliorata esperienza utente
+
+---
+
+## 👨‍💻 Autore
+
+Daniele Bellino
