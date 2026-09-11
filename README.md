@@ -1,4 +1,4 @@
-# Instagram Analyzer PRO v2.0
+# Instagram Analyzer PRO v2.1
 
 Analizzatore locale delle esportazioni Instagram per confrontare follower, following e relazioni reciproche.
 
