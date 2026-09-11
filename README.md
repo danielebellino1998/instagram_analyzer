@@ -3,7 +3,7 @@
 Analizzatore locale delle esportazioni Instagram per confrontare follower, following e relazioni reciproche.
 
 🌐 **Demo online:**  
-https://danielebellino1998.github.io/instagram_analyzer/
+https://danielebellino1998.github.io/instagram_analyzer_pro/
 
 ---
 
