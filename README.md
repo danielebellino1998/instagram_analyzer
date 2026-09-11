@@ -2,7 +2,7 @@
 
 Analizzatore locale delle esportazioni Instagram per confrontare follower, following e relazioni reciproche.
 
-🌐 **Demo online:**  
+🌐 **WEB App online:**  
 https://danielebellino1998.github.io/instagram_analyzer_pro/
 
 ---
@@ -34,7 +34,6 @@ https://danielebellino1998.github.io/instagram_analyzer_pro/
 ## 🔒 Privacy
 
 L'elaborazione dei dati avviene interamente nel browser.
-
 Nessun dato Instagram viene inviato a server esterni.
 
 ---
@@ -53,12 +52,16 @@ Nessun dato Instagram viene inviato a server esterni.
 
 ## 📌 Versione
 
-**v2.0 - Stable Release**
+**v2.1 - Aggiornamento Privacy e Esperienza Utente**
 
 Principali aggiornamenti:
 - Cache persistente
 - Ripristino sessione
 - Supporto esportazioni Instagram con più file
+- Migliorata esperienza utente
+- Aggiunta guida esportazione dati Instagram
+- Analisi locale senza salvataggio dati
+- Migliorata privacy e sicurezza
 - Migliorata esperienza utente
 
 ---
